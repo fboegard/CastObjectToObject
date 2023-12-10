@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "dL0cboxNRrm11SAqEVB820TeObIalhY9wtRe//fmhT1b9A9U2DCpSVm6F52hp8A8FSqahBlcILErv3KcqheLGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\barba\\source\\repos\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barba\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512",
+    "C:\\Users\\barba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\barba\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\barba\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\barba\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
