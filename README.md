@@ -1,0 +1,3 @@
+# CastObjectToObject
+
+Implicit operator
